@@ -8,8 +8,7 @@
 <br/>
 <br/>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hanseung2&theme=react-white&border_color=58A6FF&bg_color=20232&line=58A6FF&color=58A6FF" width=94%/>
+
 </a>
 
 <img src="https://github.com/Hanseung2/Hanseung2/blob/output/github-contribution-grid-snake.svg"/>
